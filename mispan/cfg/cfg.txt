@@ -1,0 +1,33 @@
+%Mispan configuration file
+%
+%
+%
+%Paths to input files and folders
+%
+%
+%Mirna confidence file. Provided by miSpAn.
+mirConfidence_file=mature_precursors_confidence_miRBase22_human_DB.txt
+%
+%Exact path to the exression files
+expression_repository_path=C:\Users\IK\Dropbox\data\miSPan\Test data\expression_repository\
+%
+%Exact Path to metadata file
+metaData_file=C:\Users\IK\Dropbox\data\miSPan\Test data\metadata.txt
+%
+%
+%
+%
+%Parameter selection
+%
+%
+%select mirna confidence. Options: high, low, all.  E.g. mirna_confidence=high
+mirna_confidence=high
+%
+%Conditions. Insert conditions to be considered in the study separated with  (#) e.g. conditions=Brain#Kidney#Lung#Stomach
+conditions=Kidney#Lung#Stomach
+%
+%Status comparison. Insert status values separated with  (#) e.g status=healthy#disease. If no status comparison leave it blank
+status=
+%
+%TSI threshold  for results. E.g tsi_threshold=0.99
+tsi_threshold=0.98

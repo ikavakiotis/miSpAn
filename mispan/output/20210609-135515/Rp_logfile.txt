@@ -1,0 +1,14 @@
+Condition Specificty Analysis
+
+Date: 20210609-135515
+
+Input parameters and paths:
+
+Path to samples: C:\Users\IK\Dropbox\data\miSPan\Test data\expression_repository\
+Metadata file: C:\Users\IK\Dropbox\data\miSPan\Test data\metadata.txt
+MicroRNA confidence file: lib\mature_precursors_confidence_miRBase22_human_DB.txt
+Conditions: ['Kidney', 'Lung', 'Stomach']
+Statuses: ['healthy', 'disease']
+MicroRNA confidence: high
+Threshold for specific miRNAs: 0.98
+Main output path: C:\Users\IK\Dropbox\Projects Source Code\mispan\mispan\output\20210609-135515\

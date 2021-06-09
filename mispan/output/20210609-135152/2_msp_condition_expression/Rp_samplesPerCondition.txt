@@ -1,0 +1,5 @@
+Number of samples for each condition
+
+Stomach	10
+Lung	17
+Kidney	19

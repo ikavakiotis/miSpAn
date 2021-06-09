@@ -1,0 +1,8 @@
+Number of samples for each condition
+
+healthy_Stomach	5
+disease_Stomach	5
+healthy_Lung	8
+disease_Lung	9
+disease_Kidney	11
+healthy_Kidney	8
