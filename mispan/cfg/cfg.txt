@@ -9,10 +9,10 @@
 mirConfidence_file=mature_precursors_confidence_miRBase22_human_DB.txt
 %
 %Exact path to the exression files
-expression_repository_path=C:\Users\IK\Dropbox\data\miSPan\Test data\expression_repository\
+expression_repository_path=
 %
 %Exact Path to metadata file
-metaData_file=C:\Users\IK\Dropbox\data\miSPan\Test data\metadata.txt
+metaData_file=
 %
 %
 %
