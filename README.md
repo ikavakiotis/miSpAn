@@ -1,5 +1,5 @@
 # miSpAn
-
+miSpAn is a python software for conducting Specificity analysis utilizing  miRNA expression data 
 
 ## Running miSpAn
 In order to run miSpAn download the miSpAn folder and run the mispan.py. The input parameters and paths should be declared in cfg.txt file which can be found in cfg folder
